@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 </p>
 
 <br>
+  
+- 🌱 I’m currently **freelancing**
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yossilevi94&layout=compact&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="yossilevi94" /></a>
-</p>
+- 💬 Ask me about **Web Development & Data Engineering**
+
+- 📫 How to reach me **yossi.le94@gmail.com**
 
 <br>
 
